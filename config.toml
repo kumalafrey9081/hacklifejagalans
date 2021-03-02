@@ -1,0 +1,4 @@
+baseURL = "https://newslifehackssafelo.vercel.app"
+languageCode = "en-us"
+title = "Life Hacks News"
+theme = "hugo-theme-minos"
